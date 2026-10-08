@@ -10,6 +10,7 @@ openpyxl==3.1.2
 onvif_zeep==0.2.12
 pillow==9.5.0
 cryptography==46.0.4
+opencv-contrib-python==4.10.0.84
 
 # 视频分析
 opencv-python==4.10.0.84
